@@ -46,7 +46,7 @@
   </a>
 </div>
 
-<h2 align="left">Recently liked:</h2>
+<h2 align="left">Recently liked music:</h2>
 
 <a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music"></a>
 
