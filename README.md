@@ -42,7 +42,7 @@
  <div>
   <a href="https://github.com/AlexLCarv">
       <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
-      <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
   </a>
 </div>
 
