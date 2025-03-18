@@ -39,15 +39,12 @@
 </p>
 
 <h2 align="left">Stats:</h2>
-  <div>
-<a href="https://github.com/AlexLCarv">
-    <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
-    <img height="190em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
-  
-</a>
+<div>
+  <a href="https://github.com/AlexLCarv">
+      <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
+      <img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
+  </a>
 </div>
-
-
 
 <h2 align="left">Recently liked:</h2>
 
