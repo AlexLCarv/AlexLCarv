@@ -47,19 +47,10 @@
 
 </div> -->
 
-<h2 align="left">Recently played:</h2>
-
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <iframe src="https://alexlcarv.github.io/yt-music-on-git/" width="100%" height="100%" style="border:none;">
-      </iframe>
-    </div>
-  </foreignObject>
-</svg>
+<h2 align="left">Recently liked:</h2>
 
 
-[![yt-music-on-git](https://alexlcarv.github.io/yt-music-on-git/)](https://github.com/AlexLCarv/yt-music-on-git)
+<img alt="music_icon.png" class="block-image__image" style=" " width="1240" height="764" data-src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/music_icon.width-375.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20250318%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20250318T142521Z&amp;X-Goog-Expires=86400&amp;X-Goog-SignedHeaders=host&amp;X-Goog-Signature=c29210cb45b74523a9faaf2ec2f98dbb736bad05cf00480576a1a0a3b5d2a8ee9e4c90ba8a520bd6bbaaad713605babbe47fb5b53e3c6d2ff6f4cea640b607e9451f9d4e57e63f6fbd2d47bca3f743fc793e0aab95bde9e264b7bd10da3fe3617d80df4cda58730473397adad0693e2bea4001ede083cb569fa8ce4ded08274c759813a7e04bd3e31de9a2534c08b95dce17709c6270ea1400735d967487817dae368d8baab44af332f2ed57923be9e86fce170d0065a37ac55ddad78692b8e26801258c078147c512a61ee0ba8d3d7a36851e84d9926e31e01cc0cf66bf41d3794494e865bf2998979ebc88c50994b0d1833b6c4b1a5fda9e0a8f7ec143ce71">(https://github.com/AlexLCarv/yt-music-on-git)
 
 
 <i>Follow me around the web:</i><br>
