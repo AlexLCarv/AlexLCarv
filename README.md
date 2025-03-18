@@ -41,7 +41,7 @@
 <h2 align="left">Stats:</h2>
 <a href="https://github.com/AlexLCarv">
   <div style="display: flex; gap: 10px; flex-wrap: nowrap; width: 100%; justify-content: space-between;">
-    <img height="150em" width="410em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
+    <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
     <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
   </div>
 </a>
