@@ -49,7 +49,7 @@
 
 <h2 align="left">Recently played:</h2>
 
-[![My YouTube Music App](https://alexlcarv.github.io/yt-music-on-git/)](https://github.com/AlexLCarv/yt-music-on-git)
+[![yt-music-on-git](https://alexlcarv.github.io/yt-music-on-git/)](https://github.com/AlexLCarv/yt-music-on-git)
 
 
 <i>Follow me around the web:</i><br>
