@@ -49,6 +49,17 @@
 
 <h2 align="left">Recently played:</h2>
 
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
+
 [![yt-music-on-git](https://alexlcarv.github.io/yt-music-on-git/)](https://github.com/AlexLCarv/yt-music-on-git)
 
 
