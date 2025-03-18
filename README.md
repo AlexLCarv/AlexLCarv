@@ -15,7 +15,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="www.linkedin.com/in/alexcarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Carvalho" height="30" width="55" /></a>
+<a href="https://linkedin.com/in/alexcarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Carvalho" height="30" width="55" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -50,7 +50,7 @@
 <h2 align="left">Recently liked:</h2>
 
 
-<a href="https://github.com/AlexLCarv/yt-music-on-git" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music"></a>
+<a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music"></a>
 
 
 <i>Follow me around the web:</i><br>
