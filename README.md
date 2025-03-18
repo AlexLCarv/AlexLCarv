@@ -52,12 +52,12 @@
 <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <ul>
-        <li><a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank">Clique aqui para o projeto</a></li>
-      </ul>
+      <iframe src="https://alexlcarv.github.io/yt-music-on-git/" width="100%" height="100%" style="border:none;">
+      </iframe>
     </div>
   </foreignObject>
 </svg>
+
 
 [![yt-music-on-git](https://alexlcarv.github.io/yt-music-on-git/)](https://github.com/AlexLCarv/yt-music-on-git)
 
