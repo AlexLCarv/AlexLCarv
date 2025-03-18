@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
+<p align="left">
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/> 
@@ -38,24 +38,21 @@
   </a>&nbsp;
 </p>
 
-<h2 align="center">Stats:</h2>
+<h2 align="left">Stats:</h2>
 <div>
 <a href="https://github.com/AlexLCarv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
+</div>
 
 </div>
 
 <h2 align="left">Recently liked:</h2>
 
-
 <a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music"></a>
-
 
 <i>Follow me around the web:</i><br>
 
 <a href="www.linkedin.com/in/alexcarv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/alex.carv_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-
