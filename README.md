@@ -1,5 +1,5 @@
 <h1 align="center">HI ✌️, I'm Alex!</h1>
-<h2 align="center">A passionate fullstack developer, always searching for improvement.</h2>
+<h2 align="center">Fullstack developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexLCarv&label=Profile%20views&color=0e75b6&style=flat" alt="AlexLCarv" /> </p>
 
@@ -38,14 +38,14 @@
   </a>&nbsp;
 </p>
 
-<!-- <h2 align="left">Stats:</h2>
+<h2 align="left">Stats:</h2>
 <div>
 <a href="https://github.com/AlexLCarv">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
 
-</div> -->
+</div>
 
 <h2 align="left">Recently liked:</h2>
 
