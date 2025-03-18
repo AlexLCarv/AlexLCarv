@@ -39,14 +39,13 @@
 </p>
 
 <h2 align="left">Stats:</h2>
-<div>
 <a href="https://github.com/AlexLCarv">
-<div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
-</div>
+  <div style="display: flex; gap: 10px; justify-content: space-between;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexLCarv&show_icons=true&theme=radical" alt="AlexLCarv" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexLCarv&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="AlexLCarv" />
+  </div>
+</a>
 
-</div>
 
 <h2 align="left">Recently liked:</h2>
 
