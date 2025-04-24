@@ -54,9 +54,12 @@
 </div>
 
 <h2>🎵 Just for fun</h2>
-Here's what I'm listening to lately:
 
-<a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music"></a>
+<a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank">
+  
+Here's what I'm listening to lately:
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music">
+</a>
 
 <i>Follow me around the web:</i><br>
 
