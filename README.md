@@ -53,7 +53,8 @@
   </a>
 </div>
 
-<h2 align="left">Recently liked music:</h2>
+<h2>🎵 Just for fun</h2>
+Here's what I'm listening to lately:
 
 <a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music"></a>
 
