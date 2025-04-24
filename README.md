@@ -13,6 +13,13 @@
   
 - 📫 Reach me at: **alexgoiasgol10@hotmail.com**
 
+<h2>📱 Featured Projects</h2>
+
+- 🔗 **[JS PEÇAS: VENDAS ONLINE](https://play.google.com/store/apps/details?id=com.jspecas.app&hl=en_us)** – Mobile app published on the Play Store. Built using Flutter & Laravel.
+<!-- - 🎮 **[Game Demo Project](link se tiver)** – Prototype using Godot engine, inspired by classic RPGs. -->
+<!-- - 💼 **[Portfolio website (em construção)](link futuramente)** – To be released soon. -->
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/alexcarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Carvalho" height="30" width="55" /></a>
