@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexLCarv&label=Profile%20views&color=0e75b6&style=flat" alt="AlexLCarv" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Laravel frameworks, a little of C++ and Godot**
-
-- 👯 I’m looking to collaborate on **Any game project to improve my skills in this area**
-
-<!-- - 👨‍💻 All of my projects are available at []() -->
-
-- 💬 Ask me about **C++ or JavaScript**
-
-- 📫 How to reach me **alexgoiasgol10@hotmail.com**
+- 👨‍💻 I’ve contributed to mobile apps published on app stores
+  
+- 🌱 Currently improving my skills in Flutter, Laravel, and exploring C++ and Godot
+  
+- 🎮 Looking to collaborate on open source or indie game projects
+  
+- 🌍 Open to remote work opportunities & visa sponsorship
+  
+- 📫 Reach me at: **alexgoiasgol10@hotmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
