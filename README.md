@@ -43,6 +43,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="55" height="55"/> 
   </a>&nbsp;
+
+  <a href="https://docs.flutterflow.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.brandfetch.io/id209IGdxm/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1740558018900" alt="Flutterflow" width="55" height="55"/> 
+  </a>&nbsp;
+  
 </p>
 
 <!-- <h2 align="left">Stats:</h2>
