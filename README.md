@@ -47,6 +47,10 @@
   <a href="https://docs.flutterflow.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.brandfetch.io/id209IGdxm/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1740558018900" alt="Flutterflow" width="55" height="55"/> 
   </a>&nbsp;
+
+  <a href="https://help.hyperflow.global/docs" target="_blank" rel="noreferrer"> 
+    <img src="https://help.hyperflow.global/docs/~gitbook/image?url=https%3A%2F%2F3829578295-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FRWteFkm020DS5IbXoSgj%252Ficon%252FaxFxDsGcSqALkbIt5NMg%252FFrame%25203998652.png%3Falt%3Dmedia%26token%3Dd241754c-8762-450f-b48e-a3770645e851&width=32&dpr=1&quality=100&sign=e6aa47b1&sv=2" alt="Flutterflow" width="55" height="55"/> 
+  </a>&nbsp;
   
 </p>
 
