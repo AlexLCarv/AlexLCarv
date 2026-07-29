@@ -16,6 +16,7 @@
 <h2>📱 Featured Projects</h2>
 
 - 🔗 **[JS PEÇAS: VENDAS ONLINE](https://play.google.com/store/apps/details?id=com.jspecas.app&hl=en_us)** – Mobile app published on the Play Store. Built using Flutter & Laravel.
+- 🔗 **[APP MAAS](https://play.google.com/store/apps/details?id=com.sian.maas&utm_source=latam_Med)** – Mobile app published on the Play Store. Built using FlutterFlow with custom coding in Dart and API on Hyperflow.
 <!-- - 🎮 **[Game Demo Project](link se tiver)** – Prototype using Godot engine, inspired by classic RPGs. -->
 <!-- - 💼 **[Portfolio website (em construção)](link futuramente)** – To be released soon. -->
 
