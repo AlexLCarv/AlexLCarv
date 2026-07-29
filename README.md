@@ -33,7 +33,7 @@
   </a>&nbsp;
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="55" height="55"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="55" height="55"/> 
   </a>&nbsp;
   
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
