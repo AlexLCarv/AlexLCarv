@@ -63,15 +63,15 @@
   </a>
 </div> -->
 
-<h2>🎵 Just for fun</h2>
+<!-- <h2>🎵 Just for fun</h2>
 
 Here's what I'm listening to lately:
 <br>
 <a href="https://alexlcarv.github.io/yt-music-on-git/" target="_blank">
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white" alt="Youtube Music">
-</a>
+</a> -->
 
 <i>Follow me around the web:</i><br>
 
-<a href="www.linkedin.com/in/alexcarv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/alexcarv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/alex.carv_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
